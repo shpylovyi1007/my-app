@@ -1,0 +1,12 @@
+.ul {
+  list-style: none;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.title {
+  font-size: 20px;
+  color: aliceblue;
+}
